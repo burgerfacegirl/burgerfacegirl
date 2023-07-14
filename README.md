@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🤭👋
 
 #### 🌱 I’m currently learning JavaScript and Python.
 #### 😄 I love hamburger.
