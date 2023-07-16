@@ -1,7 +1,7 @@
 ## Hi there 🤭👋
 
 #### 🌱 I’m currently learning JavaScript and Python.
-#### 😄 I love hamburger.
+#### 😄 I love hamburger. 🍔
 
 ![burgerfacegirl's GitHub stats](https://github-readme-stats.vercel.app/api?username=burgerfacegirl&show_icons=true&theme=radical)
 
